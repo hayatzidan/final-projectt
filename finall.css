@@ -7,7 +7,6 @@
 body {
     height: 100vh;
 }
-
 .container {
     width: 100%;
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(23, 23, 23, 0.7)), url('13086.jpg');
