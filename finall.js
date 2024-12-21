@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
         card7: 'Babylon.jpg',
     };
 
-    // Add text for each card
     const texts = {
         card1: 'The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World.',
         card2: 'The Statue of Zeus was a giant seated figure of Zeus, made by the sculptor Phidias.',
@@ -29,12 +28,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to open the modal with the clicked image
     cards.forEach((card, index) => {
         card.addEventListener('click', function() {
-            // Get the corresponding image path based on the card clicked
             const imagePath = imagePaths[`card${index + 1}`];
             const text = texts[`card${index + 1}`];
             console.log(text);
             
-            // Set the image URL to the modal image
             modalImage.src = imagePath; // Set the image source
             modalText.textContent = text;  // Set the text for the modal
             
