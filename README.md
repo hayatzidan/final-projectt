@@ -26,7 +26,7 @@ Built with *HTML, CSS, and JavaScript*, this project highlights clean design, sm
 
 ## 🌍 Live Demo
 
-🔗 *Website:* [https://final-projectt.netlify.app](https://final-projectt.netlify.app)  
+🔗 *Website:* [https://final-projectt.netlify.app](https://final-projecttt.netlify.app/)  
 🔗 *GitHub Repo:* [https://github.com/hayatzidan/final-projectt](https://github.com/hayatzidan/final-projectt)
 
 ---
